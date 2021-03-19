@@ -1,5 +1,10 @@
 {
     "name": "cra-template-inception",
     "version": "1.0.0",
-    "private": true
+    "description": "A preconfigured create-react-app template with TypeScript, Tailwind and CRACO",
+    "keywords": ["create-react-app", "template", "typescript", "tailwind", "craco"],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/incxption/cra-template-inception.git"
+    }
 }
